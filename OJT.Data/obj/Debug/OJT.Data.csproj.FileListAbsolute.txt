@@ -1,0 +1,16 @@
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\obj\Debug\OJT.Data.csprojResolveAssemblyReference.cache
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\OJT.Data.dll.config
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\OJT.Data.dll
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\OJT.Data.pdb
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\EntityFramework.dll
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\OJT.Model.dll
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\OJT.Model.pdb
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\EntityFramework.xml
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\obj\Debug\OJT.Data.dll
+D:\REGENERON-OJT Report\Code\FirstVersion\REGENERON.OJT\OJT.Data\obj\Debug\OJT.Data.pdb
